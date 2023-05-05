@@ -1,4 +1,4 @@
-                                                                                        Churn Modelling
+                                                                               Churn Modelling
 This repository contains the code and data for churn modelling analysis. The goal of this analysis is to predict customer churn using a variety of machine learning techniques.
 
 Dataset:
